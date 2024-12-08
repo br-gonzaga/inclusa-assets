@@ -1,42 +1,6 @@
 {
   "name": "Inclusa",
   "symbol": "INC",
-  "description": "Inclusa is a token created to promote digital and financial inclusion, with a focus on accessibility and innovation. This token provides opportunities for everyone, aligning with values of inclusion, technology, and sustainability.",
-  "image": "https://raw.githubusercontent.com/br-gonzaga/inclusa-assets/main/Logo_Inclusa.png",
-  "attributes": [
-    {
-      "trait_type": "Category",
-      "value": "Social"
-    },
-    {
-      "trait_type": "Focus",
-      "value": "Digital Inclusion"
-    },
-    {
-      "trait_type": "Circulation",
-      "value": "Limited"
-    },
-    {
-      "trait_type": "Blockchain",
-      "value": "Solana"
-    },
-    {
-      "trait_type": "Emission",
-      "value": "Deflationary"
-    }
-  ],
-  "properties": {
-    "files": [
-      {
-        "uri": "https://raw.githubusercontent.com/br-gonzaga/inclusa-assets/main/Logo_Inclusa.png",
-        "type": "image/png"
-      }
-    ],
-    "creators": [
-      {
-        "address": "BJLYmLjgeoqB5jJXawBowhF3rJqmirUeakF9cCfHsmXQ",
-        "share": 100
-      }
-    ]
-  }
+  "description": "Inclusa is a token created to promote digital and financial inclusion.",
+  "image": "https://raw.githubusercontent.com/br-gonzaga/inclusa-assets/main/Logo_Inclusa.png"
 }
