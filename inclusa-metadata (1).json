@@ -1,0 +1,42 @@
+{
+    "name": "Inclusa",
+    "symbol": "INC",
+    "description": "Inclusa (INC) is a Solana token designed to promote financial inclusion and liquidity bridging across ecosystems.",
+    "image": "https://github.com/br-gonzaga/inclusa-assets/blob/main/Logo_Inclusa.png?raw=true",
+    "decimals": 9,
+    "external_url": "https://inclusacrypto.com",
+    "seller_fee_basis_points": 0,
+    "attributes": [
+        {
+            "trait_type": "Token Standard",
+            "value": "SPL"
+        },
+        {
+            "trait_type": "Use Case",
+            "value": "Liquidity Bridge"
+        },
+        {
+            "trait_type": "Launch Date",
+            "value": "2024-12-08"
+        },
+        {
+            "trait_type": "Authority",
+            "value": "scVty7...heohMm"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "https://github.com/br-gonzaga/inclusa-assets/blob/main/Logo_Inclusa.png?raw=true",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "scVty725zTKgiGQfBRtwd39dq451LDeWZAd7BheohMm",
+                "share": 100
+            }
+        ]
+    }
+}
