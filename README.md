@@ -26,38 +26,39 @@ Explore more: https://inclusacrypto.com
 - **Pools Multiativos**: Permite liquidez cruzada entre diferentes tokens SPL.
 - **Governança**: Titulares de INC podem votar em propostas e atualizações do protocolo.
 - **Staking**: Recompensas para participantes que contribuem com liquidez.
-- **Integração com FiPool**: Utiliza a infraestrutura do FiPool para controle simbólico de valor.&#8203;:contentReference[oaicite:0]{index=0}
+- **Integração com FiPool**: Utiliza a infraestrutura do FiPool para controle simbólico de valor.
 
 ---
 
 ## 🚀 Começando
 
-1. **Carteira Solana**: :contentReference[oaicite:1]{index=1}
-2. **Adquirir INC**: :contentReference[oaicite:2]{index=2}
-3. **Participar de Pools**: :contentReference[oaicite:3]{index=3}
-4. **Staking**: :contentReference[oaicite:4]{index=4}&#8203;:contentReference[oaicite:5]{index=5}
+1. **Carteira Solana**: Configure uma carteira compatível, como Phantom ou Solflare.
+2. **Adquirir INC**: Disponível em DEXs como Raydium e Orca.
+3. **Participar de Pools**: Contribua com liquidez e ganhe recompensas.
+4. **Staking**: Bloqueie seus INC para obter rendimentos adicionais.
 
 ---
 
 ## 📈 Métricas
 
-- **Suprimento Máximo**: :contentReference[oaicite:6]{index=6}
+- **Suprimento Máximo**: 10.000.000.000 INC
 - **Distribuição Inicial**:
-  - :contentReference[oaicite:7]{index=7}
-  - :contentReference[oaicite:8]{index=8}
-  - :contentReference[oaicite:9]{index=9}
-  - :contentReference[oaicite:10]{index=10}&#8203;:contentReference[oaicite:11]{index=11}
+  - 60%: Pools de Liquidez
+  - 20%: Desenvolvimento e Tesouraria
+  - 10%: Parcerias Estratégicas
+  - 10%: Comunidade e Airdrops
 
 ---
 
 ## 🌐 Comunidade
 
-- **Twitter**: :contentReference[oaicite:12]{index=12}
-- **Discord**: :contentReference[oaicite:13]{index=13}
-- **Email**: :contentReference[oaicite:14]{index=14}&#8203;:contentReference[oaicite:15]{index=15}
+- **Twitter**: [@InclusaCrypto](https://twitter.com/InclusaCrypto)
+- **Discord**: [discord.gg/inclusa](https://discord.gg/inclusa)
+- **Email**: [support@inclusacrypto.com](mailto:support@inclusacrypto.com)
 
 ---
 
 ## 📜 Licença
 
-Este projeto está licenciado sob a [MIT License](LICENSE).&#8203;:contentReference[oaicite:16]{index=16}
+Este projeto está licenciado sob a [MIT License](LICENSE).
+
