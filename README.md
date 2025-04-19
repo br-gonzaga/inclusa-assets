@@ -11,6 +11,7 @@
 - **Max Supply**: 10,000,000,000 INC
 - **Category**: Utility and Governance Token
 - **Website**: [inclusacrypto.com](https://inclusacrypto.com)
+- **Description**: Inclusa is a token created to promote digital and financial inclusion.
 
 ---
 
